@@ -11,6 +11,7 @@ int binarySearch(int arr[], int l, int r, int x)
         // itself 
         if (arr[mid] == x)   
             return mid; 
+      
   
         // If element is smaller than mid, then  
         // it can only be present in left subarray 
