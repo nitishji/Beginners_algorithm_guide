@@ -63,4 +63,5 @@ int main()
     deleteNode(&head, 1); 
     puts("\nLinked List after Deletion of 1: "); 
     printList(head); 
+	
 }
